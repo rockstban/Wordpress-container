@@ -1,0 +1,21 @@
+version: '3.8'
+services:
+  wordpress:
+    image: wordpress:latest
+    env_file:
+      - ./env/wordpress.env
+    volumes:
+      - wordpress:/var/www/html
+    ports:
+      - '8000:80'
+    container_name: wordpress-container_name
+  db:
+    image: mysql:latest
+    env_file:
+      - ./env/mysql.env
+    volumes:
+      - data:/var/lib/mysql
+    container_name: mysql-container
+volumes:
+  wordpress:
+  data:
