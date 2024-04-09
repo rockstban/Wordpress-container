@@ -2,14 +2,19 @@
 <p>
 Es un sistema de código abierto ampliamente utilizado para la creación de sitios web, blogs y aplicaciones sencillas que no requieren un conocimiento avanzado.
 </p>
-## Características
-- **No requiere conocimientos de programación:** Proporciona una interfaz intuitiva para cualquier tipo de persona enfocada en la creación de páginas web, sin necesidad de poseer conocimientos técnicos avanzados.
+ Características
+
+
+- No requiere conocimientos de programación:Proporciona una interfaz intuitiva para cualquier tipo de persona enfocada en la creación de páginas web, sin necesidad de poseer conocimientos técnicos avanzados.
 
 - **Flexibilidad**: Uso de temas y complementos para personalizar estilos de sitios web.
-#Docker
+  
+## Docker
+
 <p2>
 Docker es una plataforma de software que permite a los desarrolladores empaquetar y distribuir imágenes que contienen distintas aplicaciones, para que puedan ser ejecutadas de manera consistente en cualquier sistema.
 </p2>
+
 ### Instalación
 <p3>
 Para ejecutar Wordpress con Docker se deben seguir los siguientes pasos:
@@ -25,6 +30,8 @@ Para ejecutar Wordpress con Docker se deben seguir los siguientes pasos:
 
 
 - Posteriormente se busca la imagen oficial en el repositorio de dockerhub tanto de la base de datos como de mysql.
+
+  
 ![](https://private-user-images.githubusercontent.com/129819154/320672683-d3d55f23-5637-47f4-b6f8-9dca29745869.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTI2MTg5MDIsIm5iZiI6MTcxMjYxODYwMiwicGF0aCI6Ii8xMjk4MTkxNTQvMzIwNjcyNjgzLWQzZDU1ZjIzLTU2MzctNDdmNC1iNmY4LTlkY2EyOTc0NTg2OS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNDA4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDQwOFQyMzIzMjJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mNzZmZjQ1ZTBlNmI2ODJjNDZjYzFmNDczZGEwYTczMDM0ZjgwNjNlMzMyOGI1ZmMxZjI1M2QwYTkxNWQwY2Y2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ygV4jXIQrEC-pmEMBqFx8_Sj2KVfql7eq9DWcxwqoxM)
 
 
