@@ -61,8 +61,13 @@ Para ejecutar Wordpress con Docker se deben seguir los siguientes pasos:
 
 ## ¡Aprende a Instalar Paso a Paso!
 <p4>
-¿Quieres dominar la instalación de principio a fin? 🚀 No te pierdas nuestro video tutorial detallado donde te guiamos paso a paso a través del proceso de instalación. ¡Aprender nunca fue tan fácil! 🎥
-👉 [¡Haz clic aquí para ver el video tutorial!](https://youtu.be/mTfyDj9v2Zc)
+¿Quieres dominar la instalación de principio a fin? 🚀 No te pierdas nuestro video tutorial detallado donde te guiamos paso a paso a través del proceso de instalación. 
+ ¡Aprender nunca fue tan fácil! 🎥
+👇
+ 
+
+ [¡Haz clic aquí para ver el video tutorial!](https://youtu.be/mTfyDj9v2Zc)
+
 </p4>
 
 
